@@ -141,3 +141,12 @@ section{
 ::-webkit-scrollbar-thumb{
     background: linear-gradient(to bottom, #07f307, #edeff0);;
 }
+
+
+#about{
+    background-color:  var(--second-background);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 5em;
+}
